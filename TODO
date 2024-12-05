@@ -7,9 +7,10 @@ HTML as file -> read from file to string                    DONE
 Return ClientOutput to HTML using string.format             DONE
 Create test harness                                         DONE
 Export + upload to Github                                   DONE
+Write README                                                DONE
 
 ----TODO-----
-Write README and Outline doc
+Outline doc
 Design nicer html 
 More Debugging + testing
 Rewrite NumToName with switch cases for thous/mil/bill
