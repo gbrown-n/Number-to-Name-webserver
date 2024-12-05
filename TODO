@@ -1,0 +1,15 @@
+HTTP Web Server - Setup basic Client Request                DONE
+Get Client Input from text field                            DONE
+Create Server Response                                      DONE
+Parse Client Input as Float                                 DONE
+Function to convert integers to number name strings         DONE 
+HTML as file -> read from file to string                    DONE
+Return ClientOutput to HTML using string.format             DONE
+Create test harness                                         DONE
+Export + upload to Github                                   DONE
+
+----TODO-----
+Write README and Outline doc
+Design nicer html 
+More Debugging + testing
+Rewrite NumToName with switch cases for thous/mil/bill
