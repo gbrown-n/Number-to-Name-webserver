@@ -22,7 +22,7 @@ namespace TechnologyOneTest
 
         public static string[] ones = ["ONE", "TWO", "THREE", "FOUR", "FIVE", "SIX", "SEVEN", "EIGHT", "NINE", "TEN"]; 
         public static string[] teens = ["ELEVEN", "TWELVE", "THIRTEEN", "FOURTEEN", "FIFTEEN", "SIXTEEN", "SEVENTEEN", "EIGHTEEN", "NINETEEN"];
-        public static string[] tens = ["TWENTY", "THRITY", "FORTY", "FIFTY", "SIXTY", "SEVENTY", "EIGHTY", "NINTY"];
+        public static string[] tens = ["TWENTY", "THIRTY", "FORTY", "FIFTY", "SIXTY", "SEVENTY", "EIGHTY", "NINTY"];
         public static string[] powers = ["HUNDRED", "THOUSAND", "MILLION", "BILLION"]; 
         public static string NumToName(int val) { 
             //this should all probably be a switch case...............

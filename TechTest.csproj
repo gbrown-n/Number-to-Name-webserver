@@ -4,6 +4,13 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>    
+
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit" Version="1.7.0.1540" />
+  </ItemGroup>
 
 </Project>

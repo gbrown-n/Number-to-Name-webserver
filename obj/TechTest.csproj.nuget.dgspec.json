@@ -43,6 +43,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "xunit": {
+              "target": "Package",
+              "version": "[1.7.0.1540, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
