@@ -30,4 +30,4 @@ Known Issues:
 
 - The method NumToName uses an inefficient process of establishing the degree of the number (hundred, thousand, million, billion). This should be re-written to iterate through these denominations. 
 - While the test harness is implemented, the unit tests created are far from conclusive, and many more tests could be made to consider a larger range of edge cases and invalid user input. 
-- The HTML web layout is rudimentary and uses a large amount of inline css styling. A more responsive and professional webpage could be designed with a dedicated CSS document, and could be parsed through the HTTP webserver utilising a better webclient library. 
+- The HTML web layout is rudimentary and uses a large amount of inline CSS styling. A more responsive and professional webpage could be designed with a dedicated CSS document, and could be parsed through the HTTP webserver utilising a better webclient library. 
