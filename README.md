@@ -10,16 +10,19 @@ Usage:
 The main project, TechTest.csproj, can be built either by: 
     
 - Utilising the C# Dev Kit extension in VSCode, which includes build and debugging usage
-- Using a terminal, navigating to the directory containing the TechTest.csproj file (TechTest\TechTest) and using the dotnet build command
+- Using a terminal, navigating to the directory containing the TechTest.csproj file (TechTest\TechTest) and using the command ```dotnet build```
 
-Running the main project can be done in a similar method, using the dotnet run command. 
+Running the main project can be done in a similar method, using the command ```dotnet run```
+
+An executable file of the latest build can also be located in bin\Debug\net9.0
+
 If the program is executed successfully, a console message will be displayed indicating the webclient is active and listening for connections.
 The default port used for these connections is 8000
 
 The test harness, TestProject1.csproj, can be built and run in a similar method by: 
 
-    - Utilising the C# Dev Kit extension in VSCode, which includes build and debugging usage
-    - Using a terminal, navigating to the directory containing the TestProject1.csproj file (TechTest\TechTest\TestProject1) and using the dotnet run command
+- Utilising the C# Dev Kit extension in VSCode, which includes build and debugging usage
+- Using a terminal, navigating to the directory containing the TestProject1.csproj file (TechTest\TechTest\TestProject1) and using the commmands ```dotnet build``` and ```dotnet run``` respectively.  
 
 Please ensure the latest .NET SDK is installed on the operating machine (.NET 9.0.101)
 
